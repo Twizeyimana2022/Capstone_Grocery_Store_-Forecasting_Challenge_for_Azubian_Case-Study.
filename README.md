@@ -27,7 +27,7 @@ to run the app
 streamlit run app.py
 Contact
 If you have any questions or need further information about the case study, please contact the project maintainer:
-##•	Name: TWIZEYIMANA Eric
-##•	Email: erictwiz6@gmail.com   
-##Enjoy exploring the Grocery Store Forecasting Challenge for Azubian case study!
+###•	Name: TWIZEYIMANA Eric
+###•	Email: erictwiz6@gmail.com   
+###Enjoy exploring the Grocery Store Forecasting Challenge for Azubian case study!
 
